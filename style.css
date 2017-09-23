@@ -1,0 +1,66 @@
+a {
+  text-decoration: none;
+}
+#header {
+  background-color: blue;
+  font-family: 'Quattrocento', serif;
+  color: white;
+  padding: 0;
+  margin: 1pt;
+  width: auto;
+  height: auto;
+  float: none;
+}
+#header a {
+  color: white;
+}
+.header-title {
+  float: left;
+  width: 80%;
+  height: 150pt;
+  background-color: blue;
+}
+.header-title a {
+  color: white;
+}
+.header-list {
+  background-color: blue;
+  float: right;
+  width: 20%;
+  height: 150pt;
+}
+.header-list li {
+  color: white;
+  margin: 1em;
+}
+.header-list li a {
+  color: white;
+}
+.header-list a {
+  color: white;
+}
+#content {
+  float: none;
+  background-color: #C6C6BA;
+  font-family: 'Quattrocento', serif;
+  color: green;
+  padding: 0;
+  margin: 1pt;
+}
+#content a {
+  color: green;
+}
+#footer {
+  background-color: black;
+  font-family: 'Quattrocento', serif;
+  color: green;
+  padding: 0;
+  margin: 1pt;
+}
+#footer li {
+  font-size: 1.5em;
+  display: inline;
+}
+#footer a {
+  color: green;
+}
